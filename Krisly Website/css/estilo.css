@@ -1,0 +1,111 @@
+body{
+    font-family: arial, helvetica;
+    background: #a592c2;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #000000;
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+}
+.menu  li a{
+    text-decoration: none;
+    color: white;
+    padding: 15px 20px;
+    display: block;
+
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: #9e77b8;
+}
+.fotos img{
+    width: 400px;
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 500px;
+    
+
+}
+.fotos{
+    justify-content: center;
+    display: flex;
+}
+p{
+    list-style: none;
+    padding: 0;
+   
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+    text-decoration: none;
+    color: black;
+    padding: 15px 20px;
+    display: block;
+    margin-top: 40px;
+    
+}
+.gallery video{
+    width: 300px;
+    height: 300px;
+    margin-right: 10px;
+    
+    
+}
+.gallery img{
+    width: 400px;
+    height: 400px;
+    margin-right: 20px;
+    margin-top: 100px;
+
+}
+.gallery{
+    margin-right: 50px;
+
+    
+    
+   
+   
+}
+.gallery audio{
+    margin-top: 100px;
+}
+p{
+    
+   margin-left: 5px;
+
+}
+.about img{
+    width: 300px;
+    margin-top: 30px;
+ 
+}
+.parraf{
+    margin: auto;
+}
+.ig img{
+    width: 100px;
+    
+}
+.kris img{
+    width: 400px;
+    height: 50;
+}
+.you img{
+    width: 200px;
+    height: 100px;
+    margin-top: 0;
+    margin-right: auto;
+}
+.link  {
+  
+    margin-right: auto;
+    
+    
+}
+
